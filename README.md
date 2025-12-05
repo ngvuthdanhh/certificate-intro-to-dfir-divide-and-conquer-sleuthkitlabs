@@ -1,4 +1,4 @@
-# 🔍 Intro to DFIR: Divide & Conquer (SleuthKitLabs)
+# 🔍 Intro to DFIR: The Divide and Conquer Process (SleuthKitLabs)
 
 ![Course](https://img.shields.io/badge/Certificate-Intro%20to%20DFIR%20(SleuthKitLabs)-darkblue?style=flat-square&logo=sleuthkit)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square&logo=verizon)
@@ -103,9 +103,9 @@ Overall, this program is excellent for anyone looking to **build solid DFIR skil
 
 ---
 
-## 📄 License
+## 📄 License  
 
 This project is licensed under the terms of the **MIT License**.  
-See [`LICENSE`](./LICENSE) for full details.
+See [`LICENSE`](./LICENSE) for full details.  
 
-© 2025 Nguyễn Vũ Thành Danh. All rights reserved.
+© 2025 ngvuthdanhh. All rights reserved.  
