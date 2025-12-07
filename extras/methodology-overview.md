@@ -29,7 +29,7 @@ This file summarizes the digital forensics and incident response workflow.
 ### 6. Lessons Learned
 - Root cause analysis  
 - Documentation updates  
-- Detection improvement  
+- Detection improvement 
 
 ## Notes
 This workflow aligns with NIST SP 800-61r2 and common IR frameworks.
